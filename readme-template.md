@@ -3,7 +3,8 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Technical Language Processing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/TLP-COI/awesome-tlp/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome Technical Language Processing 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/TLP-COI/awesome-tlp/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 A curated list of awesome TLP Resources
