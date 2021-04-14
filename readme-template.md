@@ -3,12 +3,10 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome Technical Language Processing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/TLP-COI/awesome-tlp/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
-
-A template for an awesome list with required conventions out of the box!
-
+A curated list of awesome TLP Resources
 <!-- image -->
 
 <!-- <a href="" target="_blank" rel="noopener noreferrer">
@@ -17,7 +15,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+Technical Language Processing (TLP) is a set of tools, techniques, and guidelines meant to tailor Natural Language Processing (NLP) tools to engineering (and other) expert-driven text-based data.
 
 </div>
 
@@ -25,19 +23,19 @@ A one line description of the product or tool. See [awesome-firebase](https://gi
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [TLP Tools](#tlp-tools)
+- [TLP Papers](#tlp-papers)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## TLP Tools
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Tool 1](something.else.com.here) - Tool 1 as a placeholder
 
-## Section 1
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+## TLP Papers
+
+- [Paper 1](url.to.paper.here) - Paper 1 as an example.
 
 <!-- END CONTENT -->
 
@@ -45,7 +43,7 @@ A one line description of the product or tool. See [awesome-firebase](https://gi
 
 <!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
 
-Who else should we be following!?
+Who else should we be following?
 
 ## Contributing
 
@@ -53,7 +51,7 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/TLP-COI/awesome-tlp/graphs/contributors)! 
 
 ## License
 
