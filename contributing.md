@@ -4,11 +4,11 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## PRs
 
-ALWAYS create a new branch with your proposed changes. Thank you!
+ALWAYS create a new branch with your proposed changes. Try to make the branch name in a `type`/`title` format, e.g.: `newitem/mytlptool` or `style/mytoolspelling`. Descriptive branch names and PR titles help us keep things clean! Thank you!
 
 ## Adding an new Item
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/TODO_YOUR_REPO_NAME_HERE/issues/new) to start as discussion about any new sections.
+- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/TLP-COI/awesome-tlp/issues/new) to start as discussion about any new sections.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.
