@@ -16,7 +16,7 @@ A curated list of awesome TLP Resources
 
 <!-- description -->
 
-> *The links and information below are provided as a convenience to the user community. Anyone who has a tool, technique, resource, or dataset that can be of benefit to the TLP COI is welcome to submit information and links to the webmaster for inclusion in this list. Any mention of computer hardware, software or services here does not constitute endorsement by NIST, nor does it indicate that the products are necessarily those best suited for the intended purpose.* 
+> *The links and information below are provided as a convenience to the user community. Anyone who has a tool, technique, resource, or dataset that can be of benefit to the TLP COI is welcome to submit information and links to the webmaster for inclusion in this list. Any mention of computer hardware, software or services here does not constitute endorsement by NIST, nor does it indicate that the products are necessarily those best suited for the intended purpose. Any descriptions of third party tools, were submitted by third party providers.* 
 
 Technical Language Processing (TLP) is a set of tools, techniques, and guidelines meant to tailor Natural Language Processing (NLP) tools to engineering (and other) expert-driven text-based data.
 
