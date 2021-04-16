@@ -50,7 +50,7 @@ Who else should we be following?
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+[Please follow the guidelines before contributing](contributing.md)!
 
 ### Contributors
 
