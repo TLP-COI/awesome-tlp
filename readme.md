@@ -27,18 +27,33 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 ## Contents
 
 - [TLP Tools](#tlp-tools)
+- [TLP Datasets](#tlp-datasets)
 - [TLP Papers](#tlp-papers)
+- [TLP Resources](#tlp-resources)
 
 <!-- CONTENT -->
 
 ## TLP Tools
 
 - [Nestor GUI](https://www.nist.gov/services-resources/software/nestor) - Nestor Graphical User Interface (GUI) is a free toolkit that helps maintainers annotate their Maintenance Work Order (MWO) data through a process called "tagging".
+- [Redcoat](https://github.com/Michael-Stewart-Webdev/redcoat) - A web-based annotation tool that supports collaborative hierarchical entity typing. 
 
+
+## TLP Datasets
+
+- [Excavator Maintenance Dataset](https://prognosticsdl.ecm.uwa.edu.au/pdl/) - The Excavators Raw&Cleaned dataset provides annotated MWOs.
+- [NYC Maintenance Dataset](https://data.cityofnewyork.us/Environment/Asset-Management-Parks-System-AMPS-Work-Orders/8sdw-8vja) - This dataset provides raw MWOs for park equipment. 
 
 ## TLP Papers
 
 - [Technical Language Processing: Unlocking Maintenance Knowledge](https://www.nist.gov/publications/technical-language-processing-unlocking-maintenance-knowledge) - Paper that describes the TLP concept and provides a call to action for the community. 
+- [NLP Workshop Report](https://www.nist.gov/publications/summary-report-standards-requirements-gathering-workshop-natural-language-analysis) - Workshop report on current trends, successes, and challenges with respect to NLP for maintenance in manufacturing.
+- [NLP Standards Needs Report](https://www.nist.gov/publications/standards-needs-maintenance-work-order-analysis-manufacturing) - Discussion on standards needs for NLP in maintenance.
+
+
+
+## TLP Resources 
+- 
 
 <!-- END CONTENT -->
 
