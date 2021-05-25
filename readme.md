@@ -53,7 +53,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 
 
 ## TLP Resources 
-- 
+- [IOF Maintenance WG](https://www.industrialontologies.org/maintenance-wg/) - Industrial Ontologies Foundry (IOF) maintenance management ontology Working Group (WG). 
 
 <!-- END CONTENT -->
 
