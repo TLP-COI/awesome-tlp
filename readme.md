@@ -64,7 +64,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 
 <!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
 
-- [TLP COI](https://www.nist.gov/el/tlp-coi) - NIST TLP COI  
+- [TLP COI](https://www.nist.gov/el/tlp-coi) - The TLP COI will bring together interested participants to discuss ongoing and future directions for text analysis of technical data.  
 - [IOF Maintenance WG](https://www.industrialontologies.org/maintenance-wg/) - Industrial Ontologies Foundry (IOF) maintenance management ontology Working Group (WG). 
 
 
