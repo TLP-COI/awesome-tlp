@@ -76,6 +76,3 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 
 [Thanks goes to these contributors](https://github.com/TLP-COI/awesome-tlp/graphs/contributors)! 
 
-## License
-
-[CC0 License](license)
