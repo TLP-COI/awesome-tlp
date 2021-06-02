@@ -9,7 +9,7 @@ ALWAYS create a new branch with your proposed changes. Try to make the branch na
 ## Adding an new Item
 
 - Try to fit your item into an existing sections and categories. [Open a suggestion](https://github.com/TLP-COI/awesome-tlp/issues/new) to start as discussion about any new sections or categories.
-  - Existing categories include (remove space after ":" for correct formating): 
+  - Existing categories include: 
     - 📃 = `:page_with_curl:` = paper 
     - 🖥️ = `:desktop_computer:` = software tool
     - 🗄️ = `:file_cabinet:` = dataset 
