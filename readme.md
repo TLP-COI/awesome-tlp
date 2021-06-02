@@ -61,6 +61,10 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
 
+## Human Centric TLP Research
+- 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
+- 📃 [MWO Errors] (https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in collecting maintenance work order data. 
+
 
 <!-- END CONTENT -->
 
