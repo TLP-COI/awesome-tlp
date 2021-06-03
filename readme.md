@@ -45,7 +45,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 
 ## TLP Support Tools
 
-- 🖥️ [Nestor GUI](https://www.nist.gov/services-resources/software/nestor) - Nestor Graphical User Interface (GUI) is a free toolkit that helps maintainers annotate their Maintenance Work Order (MWO) data through a process called "tagging".
+- 🖥️ [Nestor](https://www.nist.gov/services-resources/software/nestor) - Nestor Graphical User Interface (GUI) is a free toolkit that helps maintainers annotate their Maintenance Work Order (MWO) data through a process called "tagging".
   - 📃 [Hybrid Datafication Paper](https://www.nist.gov/publications/hybrid-datafication-maintenance-logs-ai-assisted-human-tags) - A paper describing the tagging methodology that is used in Nestor.
   - 🔌 [Nestor GUI repository](https://github.com/usnistgov/nestor) - The GitHub repository containing the open-source code for Nestor.     
 - 🔌 [Redcoat](https://github.com/Michael-Stewart-Webdev/redcoat) - A web-based annotation tool that supports collaborative hierarchical entity typing. 
