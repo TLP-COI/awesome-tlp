@@ -37,7 +37,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 
 <!-- CONTENT -->
 
-## What is TLP?  
+## What is TLP
 
 - 📃 [Technical Language Processing: Unlocking Maintenance Knowledge](https://www.nist.gov/publications/technical-language-processing-unlocking-maintenance-knowledge) - Paper that describes the TLP concept and provides a call to action for the community. 
 - 📃 [NLP Workshop Report](https://www.nist.gov/publications/summary-report-standards-requirements-gathering-workshop-natural-language-analysis) - Workshop report on current trends, successes, and challenges with respect to NLP for maintenance in manufacturing.
