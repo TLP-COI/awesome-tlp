@@ -64,7 +64,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 
 ## Human Centric TLP Research
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
-- 📃 [MWO Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in collecting maintenance work order data. 
+- 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
 
 
 <!-- END CONTENT -->
