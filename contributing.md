@@ -15,6 +15,7 @@ ALWAYS create a new branch with your proposed changes. Try to make the branch na
     - 🗄️ = `:file_cabinet:` = dataset 
     - 🏷️ = `:label:` = model 
     - 📘 = `:blue_book:` = standard 
+    - 🔌 = `:electric_plug:` = library 
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.
