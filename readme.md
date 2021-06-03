@@ -27,7 +27,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 ## Contents
 
 - [What is TLP](#what-is-tlp)
-- [TLP Tools](#tlp-tools)
+- [TLP Support Tools](#tlp-support-tools)
 - [TLP Datasets](#tlp-datasets)
 - [TLP Resources](#tlp-resources)
 - [Human Centric TLP Research](#tlp-human)
