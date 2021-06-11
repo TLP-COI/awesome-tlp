@@ -54,14 +54,12 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 ## TLP Datasets
 
 - 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.ecm.uwa.edu.au/pdl/) - The Excavators Raw&Cleaned dataset provides annotated MWOs.
-- 🗄️ [NYC Maintenance Dataset](https://data.cityofnewyork.us/Environment/Asset-Management-Parks-System-AMPS-Work-Orders/8sdw-8vja) - This dataset provides raw MWOs for park equipment. 
-- 🗄️ [Handyman Work Order (WHO) Charges](https://data.cityofnewyork.us/Housing-Development/Handyman-Work-Order-HWO-Charges/sbnd-xujn) - Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation.  127K rows and 32 columns
-- 🗄️ [WSSC Completed Service Alert Work Orders](https://data.montgomerycountymd.gov/Community-Recreation/WSSC-Completed-Service-Alert-Work-Orders/4tjk-62h7) - WSSC completed service alert work-orders published on a monthly basis. 235k rows and 9 columns
-- 🗄️ [Traffic Signal Work Orders](https://data.austintexas.gov/Transportation-and-Mobility/Traffic-Signal-Work-Orders/hst3-hxcz) - This dataset contains records of work completed by traffic signal technicians in the city of Austin, TX.  23.1k rows and 28 columns.
-- 🗄️ [Water Resources Preventive and Corrective Work Orders](https://stat.stpete.org/Public-Works/Water-Resources-Preventive-and-Corrective-Work-Ord/2pyj-nbxk) - The following data displays all of the preventive and corrective work orders at the Water Resource Department for the city of St. Petersburg, FL.  117k rows, 10 columns
-- 🗄️ [National Highway traffic crash injury cases](https://one.nhtsa.gov/Research/Crash-Injury-Research-(CIREN)/Data:) - The CIREN database consists of multiple discrete fields of data concerning severe motor vehicle crashes, including crash reconstruction and medical injury profiles
-- 🗄️ [Initiating events for unexpected reactor trips](https://nrcoe.inl.gov/InitEvent/) - Data for all unexpected reactor trips during power operations at commercial nuclear power plants were reviewed.  US Nuclear Regulatory Commission.  The 2018 initiating event summary contains 3659 rows.
-
+- 🗄️ [Handyman Work Order (WHO) Charges: 127K rows; 32 columns](https://data.cityofnewyork.us/Housing-Development/Handyman-Work-Order-HWO-Charges/sbnd-xujn) - Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation.  
+- 🗄️ [WSSC Completed Service Alert Work Orders: 235k rows; 9 columns](https://data.montgomerycountymd.gov/Community-Recreation/WSSC-Completed-Service-Alert-Work-Orders/4tjk-62h7) - WSSC completed service alert work-orders published on a monthly basis. 
+- 🗄️ [Traffic Signal Work Orders: 23.1k rows; 28 columns.](https://data.austintexas.gov/Transportation-and-Mobility/Traffic-Signal-Work-Orders/hst3-hxcz) - This dataset contains records of work completed by traffic signal technicians in the city of Austin, TX.  
+- 🗄️ [Water Resources Preventive and Corrective Work Orders: 117k rows; 10 columns](https://stat.stpete.org/Public-Works/Water-Resources-Preventive-and-Corrective-Work-Ord/2pyj-nbxk) - The following data displays all of the preventive and corrective work orders at the Water Resource Department for the city of St. Petersburg, FL.  
+- 🗄️ [National Highway traffic crash injury cases](https://one.nhtsa.gov/Research/Crash-Injury-Research-(CIREN)/Data:) - The CIREN database consists of multiple discrete fields of data concerning severe motor vehicle crashes, including crash reconstruction and medical injury profiles. 
+- 🗄️ [Initiating events for unexpected reactor trips: 3659 rows](https://nrcoe.inl.gov/InitEvent/) - Data for all unexpected reactor trips during power operations at commercial nuclear power plants were reviewed.  US Nuclear Regulatory Commission.  
 
 
 
