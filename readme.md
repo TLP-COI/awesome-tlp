@@ -54,7 +54,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 
 ## TLP Datasets
 
-- 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.ecm.uwa.edu.au/pdl/) - The Excavators Raw&Cleaned dataset provides annotated MWOs.
+- 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.systemhealthlab.com/dataset/excavator-maintenance-work-order-data) - The Excavators Raw&Cleaned dataset provides clean and uncleaned MWOs using a rules based process.
 - 🗄️ [Asset Management Parks System Work Orders: 1.67M rows; 56 columns](https://data.cityofnewyork.us/Environment/Asset-Management-Parks-System-AMPS-Work-Orders/8sdw-8vja) - This dataset provides raw MWOs for park equipment. 
 - 🗄️ [Handyman Work Order Charges: 127K rows; 32 columns](https://data.cityofnewyork.us/Housing-Development/Handyman-Work-Order-HWO-Charges/sbnd-xujn) - Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation.  
 - 🗄️ [WSSC Completed Service Alert Work Orders: 235k rows; 9 columns](https://data.montgomerycountymd.gov/Community-Recreation/WSSC-Completed-Service-Alert-Work-Orders/4tjk-62h7) - WSSC completed service alert work-orders published on a monthly basis. 
