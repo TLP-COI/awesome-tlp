@@ -50,6 +50,8 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
   - 📃 [Hybrid Datafication Paper](https://www.nist.gov/publications/hybrid-datafication-maintenance-logs-ai-assisted-human-tags) - A paper describing the tagging methodology that is used in Nestor.
   - 🔌 [Nestor GUI repository](https://github.com/usnistgov/nestor) - The GitHub repository containing the open-source code for Nestor.     
 - 🔌 [Redcoat](https://github.com/Michael-Stewart-Webdev/redcoat) - A web-based annotation tool that supports collaborative hierarchical entity typing. 
+- 🔌 🗄️ 📃 [MaintNet: A Collaborative Open-Source Library for Predictive
+Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.  The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.  [link to MaintNet paper](https://arxiv.org/abs/2005.12443)
 
 
 ## TLP Datasets
@@ -62,6 +64,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - 🗄️ [Water Resources Preventive and Corrective Work Orders: 117k rows; 10 columns](https://stat.stpete.org/Public-Works/Water-Resources-Preventive-and-Corrective-Work-Ord/2pyj-nbxk) - The following data displays all of the preventive and corrective work orders at the Water Resource Department for the city of St. Petersburg, FL.  
 - 🗄️ [National Highway traffic crash injury cases](https://one.nhtsa.gov/Research/Crash-Injury-Research-(CIREN)/Data:) - The CIREN database consists of multiple discrete fields of data concerning severe motor vehicle crashes, including crash reconstruction and medical injury profiles. 
 - 🗄️ [Initiating events for unexpected reactor trips: 3659 rows](https://nrcoe.inl.gov/InitEvent/) - Data for all unexpected reactor trips during power operations at commercial nuclear power plants were reviewed.  US Nuclear Regulatory Commission.  
+
 
 
 
