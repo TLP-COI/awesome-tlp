@@ -50,8 +50,10 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
   - 📃 [Hybrid Datafication Paper](https://www.nist.gov/publications/hybrid-datafication-maintenance-logs-ai-assisted-human-tags) - A paper describing the tagging methodology that is used in Nestor.
   - 🔌 [Nestor GUI repository](https://github.com/usnistgov/nestor) - The GitHub repository containing the open-source code for Nestor.     
 - 🔌 [Redcoat](https://github.com/Michael-Stewart-Webdev/redcoat) - A web-based annotation tool that supports collaborative hierarchical entity typing. 
-- 🔌 🗄️ 📃 [MaintNet: A Collaborative Open-Source Library for Predictive
-Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.  The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.  [link to MaintNet paper](https://arxiv.org/abs/2005.12443)
+- 🔌 [MaintNet: A Collaborative Open-Source Library for Predictive
+Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.
+  - 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
+  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library. 
 
 
 ## TLP Datasets
