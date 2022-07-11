@@ -30,7 +30,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - [TLP Support Tools](#tlp-support-tools)
 - [TLP Datasets](#tlp-datasets)
 - [TLP Resources](#tlp-resources)
-- [Human Centric TLP Research](#human-centric-tlp-research)
+- [TLP Research](#human-centric-tlp-research)
 - [Follow](#follow)
 
 ### Legend: 📃 paper - 🖥️ software tool - 🗄️ dataset - 🏷️ model - 📘 standard - 🔌 library 
@@ -56,6 +56,7 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
   - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library. 
 
 
+
 ## TLP Datasets
 
 - 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.systemhealthlab.com/dataset/excavator-maintenance-work-order-data) - The Excavators Raw&Cleaned dataset provides clean and uncleaned MWOs using a rules based process.
@@ -75,9 +76,15 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
 
-## Human Centric TLP Research
+
+## TLP Research 
+
+### Human-Centric TLP 
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
 - 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
+
+### TLP Representations & Embeddings
+- 📃 [Condition Monitoring Annotations with BERT and Technical Language Substitution](https://www.papers.phmsociety.org/index.php/phme/article/view/3356) - Substituting out-of-vocabulary technical words with natural language terms can improve language model performance on other language domains for pre-trained BERT.
 
 
 <!-- END CONTENT -->
