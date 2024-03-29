@@ -29,7 +29,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - [What is TLP](#what-is-tlp)
 - [TLP Support Tools](#tlp-support-tools)
 - [TLP Datasets](#tlp-datasets)
-- [TLP Learning Resources]
+- [TLP Learning Resources](#tlp-learning-resources)
 - [TLP Resources](#tlp-resources)
 - [Human Centric TLP Research](#human-centric-tlp-research)
 - [Follow](#follow)
@@ -76,10 +76,12 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 
 
 ## TLP Resources 
+
+### Standards
 - 📘 [ISO 15926-4:2019](https://www.iso.org/standard/73830.html) - Reference data for recording information about process plants. 
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
 
-### TLP Resources: Ontologies
+### Ontologies
 - 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
 - 📃 [Ontology for maintenance activities](https://content.iospress.com/articles/semantic-web/sw233299) - An ontology for maintenance activities and its application to data quality.  Paper describing an ontology for maintenance activities, which is extensible across industries.
 - 📃 [name]()
