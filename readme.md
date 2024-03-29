@@ -58,6 +58,8 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 
 ## TLP Datasets
 
+- 🗄️ 🏷️ [MaintNorm](https://github.com/nlp-tlp/maintnorm) - MaintNorm: A corpus and benchmark model for lexical normalisation and masking of industrial maintenance short text.  Contains data, models and code.
+- 🗄️ [FMC-MWO2KG](https://paperswithcode.com/dataset/fmc-mwo2kg) - FMC-MWO2KG (The MWO2KG Failure Mode Classification Dataset) comprises 502 observation and label pairs for training, 62 pairs for validation and 62 pairs for testing.
 - 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.systemhealthlab.com/dataset/excavator-maintenance-work-order-data) - The Excavators Raw&Cleaned dataset provides clean and uncleaned MWOs using a rules based process.
 - 🗄️ [Asset Management Parks System Work Orders: 1.67M rows; 56 columns](https://data.cityofnewyork.us/Environment/Asset-Management-Parks-System-AMPS-Work-Orders/8sdw-8vja) - This dataset provides raw MWOs for park equipment. 
 - 🗄️ [Handyman Work Order Charges: 127K rows; 32 columns](https://data.cityofnewyork.us/Housing-Development/Handyman-Work-Order-HWO-Charges/sbnd-xujn) - Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation.  
