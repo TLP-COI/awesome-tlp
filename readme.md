@@ -71,19 +71,20 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 🗄️ [Initiating events for unexpected reactor trips: 3659 rows](https://nrcoe.inl.gov/InitEvent/) - Data for all unexpected reactor trips during power operations at commercial nuclear power plants were reviewed.  US Nuclear Regulatory Commission.  
 
 ## TLP Learning Resources
-- 📃(do not know which icon to use) [Text as Data: the Road to Technical Language Processing] (https://tlp-coi.github.io/text-data-course/home.html) - Online course for "Text as Data: the Road to Technical Language Processing" developed by Rachael Sexton.  
+- 📃(online resource & slide deck) [Text as Data: the Road to Technical Language Processing](https://tlp-coi.github.io/text-data-course/home.html) - Online course for "Text as Data: the Road to Technical Language Processing" developed by Rachael Sexton.  
 - 📃(slide deck & recording)[Technical Language Processing tutorial](https://phm2023.phmsociety.org/tutorials/) - Tutorial for Technical Language Processing at Prognostics & Health Management (PHM) Society Conference 2023, contains slide deck, recording in 3 parts as well as notebook for getting started using the Excavator dataset.
+- 📃(online media) [An Introduction to Technical Language Processing: Unlocking Maintenance Knowledge.](https://www.amtonline.org/article/an-introduction-to-technical-language-processing-unlocking-maintenance) - Overview talk about TLP with examples.
 
 
 ## TLP Resources 
 
-### Standards
+#### Standards
 - 📘 [ISO 15926-4:2019](https://www.iso.org/standard/73830.html) - Reference data for recording information about process plants. 
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
 
-### Ontologies
+#### Ontologies
 - 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
-- 📃 [Ontology for maintenance activities](https://content.iospress.com/articles/semantic-web/sw233299) - An ontology for maintenance activities and its application to data quality.  Paper describing an ontology for maintenance activities, which is extensible across industries.
+- 📃 [An ontology for maintenance activities and its application to data quality.](https://content.iospress.com/articles/semantic-web/sw233299) - Paper describing an ontology for maintenance activities, which is extensible across industries.
 - 📃 [name]()
 
 ## Human Centric TLP Research
