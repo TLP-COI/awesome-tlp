@@ -67,7 +67,9 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 🗄️ [National Highway traffic crash injury cases](https://one.nhtsa.gov/Research/Crash-Injury-Research-(CIREN)/Data:) - The CIREN database consists of multiple discrete fields of data concerning severe motor vehicle crashes, including crash reconstruction and medical injury profiles. 
 - 🗄️ [Initiating events for unexpected reactor trips: 3659 rows](https://nrcoe.inl.gov/InitEvent/) - Data for all unexpected reactor trips during power operations at commercial nuclear power plants were reviewed.  US Nuclear Regulatory Commission.  
 
-
+## TLP Learning Resources
+- 📃(do not know which icon to use) [Text as Data: the Road to Technical Language Processing] (https://tlp-coi.github.io/text-data-course/home.html) - Online course for "Text as Data: the Road to Technical Language Processing" developed by Rachael Sexton.  
+- 📃(slide deck & recording)[Technical Language Processing tutorial](https://phm2023.phmsociety.org/tutorials/) - Tutorial for Technical Language Processing at Prognostics & Health Management (PHM) Society Conference 2023, contains slide deck and recording in 3 parts.
 
 
 ## TLP Resources 
