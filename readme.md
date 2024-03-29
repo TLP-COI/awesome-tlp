@@ -29,6 +29,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - [What is TLP](#what-is-tlp)
 - [TLP Support Tools](#tlp-support-tools)
 - [TLP Datasets](#tlp-datasets)
+- [TLP Learning Resources]
 - [TLP Resources](#tlp-resources)
 - [Human Centric TLP Research](#human-centric-tlp-research)
 - [Follow](#follow)
@@ -71,13 +72,17 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 
 ## TLP Learning Resources
 - 📃(do not know which icon to use) [Text as Data: the Road to Technical Language Processing] (https://tlp-coi.github.io/text-data-course/home.html) - Online course for "Text as Data: the Road to Technical Language Processing" developed by Rachael Sexton.  
-- 📃(slide deck & recording)[Technical Language Processing tutorial](https://phm2023.phmsociety.org/tutorials/) - Tutorial for Technical Language Processing at Prognostics & Health Management (PHM) Society Conference 2023, contains slide deck and recording in 3 parts.
+- 📃(slide deck & recording)[Technical Language Processing tutorial](https://phm2023.phmsociety.org/tutorials/) - Tutorial for Technical Language Processing at Prognostics & Health Management (PHM) Society Conference 2023, contains slide deck, recording in 3 parts as well as notebook for getting started using the Excavator dataset.
 
 
 ## TLP Resources 
 - 📘 [ISO 15926-4:2019](https://www.iso.org/standard/73830.html) - Reference data for recording information about process plants. 
-- 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
+
+### TLP Resources: Ontologies
+- 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
+- 📃 [Ontology for maintenance activities](https://content.iospress.com/articles/semantic-web/sw233299) - An ontology for maintenance activities and its application to data quality.  Paper describing an ontology for maintenance activities, which is extensible across industries.
+- 📃 [name]()
 
 ## Human Centric TLP Research
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
