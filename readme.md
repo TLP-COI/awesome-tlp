@@ -85,7 +85,8 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 #### Ontologies
 - 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
 - 📃 [An ontology for maintenance activities and its application to data quality.](https://content.iospress.com/articles/semantic-web/sw233299) - Paper describing an ontology for maintenance activities, which is extensible across industries.
-- 📃 [name]()
+- 📃 [An ontology for reasoning over engineering textual data stored in FMEA spreadsheet tables.](https://www.sciencedirect.com/science/article/abs/pii/S0166361521001032) - Ontology for representing Failure Modes and Effects Analysis (FMEA)
+
 
 ## Human Centric TLP Research
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
