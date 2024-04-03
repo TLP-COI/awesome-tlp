@@ -76,6 +76,7 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
 
 ## Human Centric TLP Research
+- 📃 [Avoiding Past Mistakes in Unethical Human Subjects Research: Moving From Artificial Intelligence Principles to Practice](https://ieeexplore.ieee.org/abstract/document/10417823) - a brief history of the events that prompted today’s ethical codes to protect human rights in research; key ethical principles from the Belmont Report, and how these ethical principles apply to AI research.
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
 - 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
 
