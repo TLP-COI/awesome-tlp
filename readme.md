@@ -60,7 +60,6 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 ## TLP Datasets
 
 - 🗄️ 🏷️ [MaintNorm](https://github.com/nlp-tlp/maintnorm) - MaintNorm: A corpus and benchmark model for lexical normalisation and masking of industrial maintenance short text.  Contains data, models and code.
-- 🗄️ [FMC-MWO2KG](https://paperswithcode.com/dataset/fmc-mwo2kg) - FMC-MWO2KG (The MWO2KG Failure Mode Classification Dataset) comprises 502 observation and label pairs for training, 62 pairs for validation and 62 pairs for testing.
 - 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.systemhealthlab.com/dataset/excavator-maintenance-work-order-data) - The Excavators Raw&Cleaned dataset provides clean and uncleaned MWOs using a rules based process.
 - 🗄️ [Asset Management Parks System Work Orders: 1.67M rows; 56 columns](https://data.cityofnewyork.us/Environment/Asset-Management-Parks-System-AMPS-Work-Orders/8sdw-8vja) - This dataset provides raw MWOs for park equipment. 
 - 🗄️ [Handyman Work Order Charges: 127K rows; 32 columns](https://data.cityofnewyork.us/Housing-Development/Handyman-Work-Order-HWO-Charges/sbnd-xujn) - Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation.  
@@ -74,6 +73,10 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 📃(online resource & slide deck) [Text as Data: the Road to Technical Language Processing](https://tlp-coi.github.io/text-data-course/home.html) - Online course for "Text as Data: the Road to Technical Language Processing" developed by Rachael Sexton.  
 - 📃(slide deck & recording)[Technical Language Processing tutorial](https://phm2023.phmsociety.org/tutorials/) - Tutorial for Technical Language Processing at Prognostics & Health Management (PHM) Society Conference 2023, contains slide deck, recording in 3 parts as well as notebook for getting started using the Excavator dataset.
 - 📃(online media) [An Introduction to Technical Language Processing: Unlocking Maintenance Knowledge.](https://www.amtonline.org/article/an-introduction-to-technical-language-processing-unlocking-maintenance) - Overview talk about TLP with examples.
+
+### TLP Benchmark Datasets
+- 🗄️📃 (and leaderboard)[DesignQA](https://design-qa.github.io/) - DesignQA is a benchmark for evaluating proficiency of multimodel LLMs (MLLMs) in comprehending and applying engineering requirements in technical documentation.  Two (of the 6) benchmarks are also applicable to LLM's.
+- 🗄️ [FMC-MWO2KG](https://paperswithcode.com/dataset/fmc-mwo2kg) - FMC-MWO2KG (The MWO2KG Failure Mode Classification Dataset) comprises 502 observation and label pairs for training, 62 pairs for validation and 62 pairs for testing.
 
 
 ## TLP Resources 
