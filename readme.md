@@ -29,6 +29,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - [What is TLP](#what-is-tlp)
 - [TLP Support Tools](#tlp-support-tools)
 - [TLP Datasets](#tlp-datasets)
+- [TLP Learning Resources](#tlp-learning-resources)
 - [TLP Resources](#tlp-resources)
 - [TLP Research](#tlp-research)
 - [Follow](#follow)
@@ -53,12 +54,16 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - 🔌 [MaintNet: A Collaborative Open-Source Library for Predictive
 Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.
   - 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
-  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library. 
+  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library.
+ - 🖥️ [Puggle](https://pypi.org/project/puggle/) - A Python package for working with the outputs of Information Extraction models and tools such as SPERT and QuickGraph. Also available on GitHub ([link](https://github.com/nlp-tlp/puggle/)).
+ - 🖥️ [Mudlark](https://pypi.org/project/mudlark/) - A Python package for automatically cleaning the short text present in maintenance work orders and strategies. Also available on GitHub ([link](https://github.com/nlp-tlp/mudlark/)).
 
 
 
 ## TLP Datasets
 
+- 🗄️ 🏷️ [MaintNorm](https://github.com/nlp-tlp/maintnorm) - MaintNorm: A corpus and benchmark model for lexical normalisation and masking of industrial maintenance short text.  Contains data, models and code.
+- 🗄️ [FMC-MWO2KG](https://paperswithcode.com/dataset/fmc-mwo2kg) - FMC-MWO2KG (The MWO2KG Failure Mode Classification Dataset) comprises 502 observation and label pairs for training, 62 pairs for validation and 62 pairs for testing.
 - 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.systemhealthlab.com/dataset/excavator-maintenance-work-order-data) - The Excavators Raw&Cleaned dataset provides clean and uncleaned MWOs using a rules based process.
 - 🗄️ [Asset Management Parks System Work Orders: 1.67M rows; 56 columns](https://data.cityofnewyork.us/Environment/Asset-Management-Parks-System-AMPS-Work-Orders/8sdw-8vja) - This dataset provides raw MWOs for park equipment. 
 - 🗄️ [Handyman Work Order Charges: 127K rows; 32 columns](https://data.cityofnewyork.us/Housing-Development/Handyman-Work-Order-HWO-Charges/sbnd-xujn) - Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation.  
@@ -68,18 +73,28 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 🗄️ [National Highway traffic crash injury cases](https://one.nhtsa.gov/Research/Crash-Injury-Research-(CIREN)/Data:) - The CIREN database consists of multiple discrete fields of data concerning severe motor vehicle crashes, including crash reconstruction and medical injury profiles. 
 - 🗄️ [Initiating events for unexpected reactor trips: 3659 rows](https://nrcoe.inl.gov/InitEvent/) - Data for all unexpected reactor trips during power operations at commercial nuclear power plants were reviewed.  US Nuclear Regulatory Commission.  
 
-
+## TLP Learning Resources
+- 📃(online resource & slide deck) [Text as Data: the Road to Technical Language Processing](https://tlp-coi.github.io/text-data-course/home.html) - Online course for "Text as Data: the Road to Technical Language Processing" developed by Rachael Sexton.  
+- 📃(slide deck & recording)[Technical Language Processing tutorial](https://phm2023.phmsociety.org/tutorials/) - Tutorial for Technical Language Processing at Prognostics & Health Management (PHM) Society Conference 2023, contains slide deck, recording in 3 parts as well as notebook for getting started using the Excavator dataset.
+- 📃(online media) [An Introduction to Technical Language Processing: Unlocking Maintenance Knowledge.](https://www.amtonline.org/article/an-introduction-to-technical-language-processing-unlocking-maintenance) - Overview talk about TLP with examples.
 
 
 ## TLP Resources 
+
+#### Standards
 - 📘 [ISO 15926-4:2019](https://www.iso.org/standard/73830.html) - Reference data for recording information about process plants. 
-- 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
+
+#### Ontologies
+- 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
+- 📃 [An ontology for maintenance activities and its application to data quality.](https://content.iospress.com/articles/semantic-web/sw233299) - Paper describing an ontology for maintenance activities, which is extensible across industries.
+- 📃 [An ontology for reasoning over engineering textual data stored in FMEA spreadsheet tables.](https://www.sciencedirect.com/science/article/abs/pii/S0166361521001032) - Ontology for representing Failure Modes and Effects Analysis (FMEA)
 
 
 ## TLP Research 
 
-### Human-Centric TLP 
+### Human Centric TLP Research
+
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
 - 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
 
