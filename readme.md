@@ -48,15 +48,15 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 ## TLP Support Tools
 
 - 🖥️ [Nestor](https://www.nist.gov/services-resources/software/nestor) - Nestor Graphical User Interface (GUI) is a free toolkit that helps maintainers annotate their Maintenance Work Order (MWO) data through a process called "tagging".
-  - 📃 [Hybrid Datafication Paper](https://www.nist.gov/publications/hybrid-datafication-maintenance-logs-ai-assisted-human-tags) - A paper describing the tagging methodology that is used in Nestor.
-  - 🔌 [Nestor GUI repository](https://github.com/usnistgov/nestor) - The GitHub repository containing the open-source code for Nestor.     
+- 📃 [Hybrid Datafication Paper](https://www.nist.gov/publications/hybrid-datafication-maintenance-logs-ai-assisted-human-tags) - A paper describing the tagging methodology that is used in Nestor.
+- 🔌 [Nestor GUI repository](https://github.com/usnistgov/nestor) - The GitHub repository containing the open-source code for Nestor.     
 - 🔌 [Redcoat](https://github.com/Michael-Stewart-Webdev/redcoat) - A web-based annotation tool that supports collaborative hierarchical entity typing. 
 - 🔌 [MaintNet: A Collaborative Open-Source Library for Predictive
 Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.
-  - 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
-  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library.
- - 🖥️ [Puggle](https://pypi.org/project/puggle/) - A Python package for working with the outputs of Information Extraction models and tools such as SPERT and QuickGraph. Also available on GitHub ([link](https://github.com/nlp-tlp/puggle/)).
- - 🖥️ [Mudlark](https://pypi.org/project/mudlark/) - A Python package for automatically cleaning the short text present in maintenance work orders and strategies. Also available on GitHub ([link](https://github.com/nlp-tlp/mudlark/)).
+- 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
+- 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library.
+- 🖥️ [Puggle](https://pypi.org/project/puggle/) - A Python package for working with the outputs of Information Extraction models and tools such as SPERT and QuickGraph. Also available on GitHub ([link](https://github.com/nlp-tlp/puggle/)).
+- 🖥️ [Mudlark](https://pypi.org/project/mudlark/) - A Python package for automatically cleaning the short text present in maintenance work orders and strategies. Also available on GitHub ([link](https://github.com/nlp-tlp/mudlark/)).
 
 
 
@@ -99,7 +99,6 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 #### Human Centric TLP Research
 
 - 📃 [Avoiding Past Mistakes in Unethical Human Subjects Research: Moving From Artificial Intelligence Principles to Practice](https://ieeexplore.ieee.org/abstract/document/10417823) - a brief history of the events that prompted today's ethical codes to protect human rights in research, key ethical principles from the [Belmont Report](https://web.archive.org/web/20240402052729/https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html), and how these ethical principles apply to AI research.
->>>>>>> newitem/irb-nistr
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
 - 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
 
