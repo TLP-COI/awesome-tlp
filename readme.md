@@ -31,7 +31,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - [TLP Datasets](#tlp-datasets)
 - [TLP Learning Resources](#tlp-learning-resources)
 - [TLP Resources](#tlp-resources)
-- [Human Centric TLP Research](#human-centric-tlp-research)
+- [TLP Research](#tlp-research)
 - [Follow](#follow)
 
 ### Legend: 📃 paper - 🖥️ software tool - 🗄️ dataset - 🏷️ model - 📘 standard - 🔌 library 
@@ -54,7 +54,10 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - 🔌 [MaintNet: A Collaborative Open-Source Library for Predictive
 Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.
   - 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
-  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library. 
+  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library.
+ - 🖥️ [Puggle](https://pypi.org/project/puggle/) - A Python package for working with the outputs of Information Extraction models and tools such as SPERT and QuickGraph. Also available on GitHub ([link](https://github.com/nlp-tlp/puggle/)).
+ - 🖥️ [Mudlark](https://pypi.org/project/mudlark/) - A Python package for automatically cleaning the short text present in maintenance work orders and strategies. Also available on GitHub ([link](https://github.com/nlp-tlp/mudlark/)).
+
 
 
 ## TLP Datasets
@@ -91,9 +94,15 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 📃 [An ontology for reasoning over engineering textual data stored in FMEA spreadsheet tables.](https://www.sciencedirect.com/science/article/abs/pii/S0166361521001032) - Ontology for representing Failure Modes and Effects Analysis (FMEA)
 
 
-## Human Centric TLP Research
+## TLP Research 
+
+### Human Centric TLP Research
+
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
 - 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
+
+### TLP Representations & Embeddings
+- 📃 [Condition Monitoring Annotations with BERT and Technical Language Substitution](https://www.papers.phmsociety.org/index.php/phme/article/view/3356) - Substituting out-of-vocabulary technical words with natural language terms can improve language model performance on other language domains for pre-trained BERT.
 
 
 <!-- END CONTENT -->
