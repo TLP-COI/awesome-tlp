@@ -31,7 +31,7 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - [TLP Datasets](#tlp-datasets)
 - [TLP Learning Resources](#tlp-learning-resources)
 - [TLP Resources](#tlp-resources)
-- [Human Centric TLP Research](#human-centric-tlp-research)
+- [TLP Research](#tlp-research)
 - [Follow](#follow)
 
 ### Legend: 📃 paper - 🖥️ software tool - 🗄️ dataset - 🏷️ model - 📘 standard - 🔌 library 
@@ -48,21 +48,21 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 ## TLP Support Tools
 
 - 🖥️ [Nestor](https://www.nist.gov/services-resources/software/nestor) - Nestor Graphical User Interface (GUI) is a free toolkit that helps maintainers annotate their Maintenance Work Order (MWO) data through a process called "tagging".
-  - 📃 [Hybrid Datafication Paper](https://www.nist.gov/publications/hybrid-datafication-maintenance-logs-ai-assisted-human-tags) - A paper describing the tagging methodology that is used in Nestor.
-  - 🔌 [Nestor GUI repository](https://github.com/usnistgov/nestor) - The GitHub repository containing the open-source code for Nestor.     
+- 📃 [Hybrid Datafication Paper](https://www.nist.gov/publications/hybrid-datafication-maintenance-logs-ai-assisted-human-tags) - A paper describing the tagging methodology that is used in Nestor.
+- 🔌 [Nestor GUI repository](https://github.com/usnistgov/nestor) - The GitHub repository containing the open-source code for Nestor.     
 - 🔌 [Redcoat](https://github.com/Michael-Stewart-Webdev/redcoat) - A web-based annotation tool that supports collaborative hierarchical entity typing. 
 - 🔌 [MaintNet: A Collaborative Open-Source Library for Predictive
 Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.
-  - 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
-  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library.
- - 🖥️ [Puggle](https://pypi.org/project/puggle/) - A Python package for working with the outputs of Information Extraction models and tools such as SPERT and QuickGraph. Also available on GitHub ([link](https://github.com/nlp-tlp/puggle/)).
- - 🖥️ [Mudlark](https://pypi.org/project/mudlark/) - A Python package for automatically cleaning the short text present in maintenance work orders and strategies. Also available on GitHub ([link](https://github.com/nlp-tlp/mudlark/)).
+- 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
+- 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library.
+- 🖥️ [Puggle](https://pypi.org/project/puggle/) - A Python package for working with the outputs of Information Extraction models and tools such as SPERT and QuickGraph. Also available on GitHub ([link](https://github.com/nlp-tlp/puggle/)).
+- 🖥️ [Mudlark](https://pypi.org/project/mudlark/) - A Python package for automatically cleaning the short text present in maintenance work orders and strategies. Also available on GitHub ([link](https://github.com/nlp-tlp/mudlark/)).
+
 
 
 ## TLP Datasets
 
 - 🗄️ 🏷️ [MaintNorm](https://github.com/nlp-tlp/maintnorm) - MaintNorm: A corpus and benchmark model for lexical normalisation and masking of industrial maintenance short text.  Contains data, models and code.
-- 🗄️ [FMC-MWO2KG](https://paperswithcode.com/dataset/fmc-mwo2kg) - FMC-MWO2KG (The MWO2KG Failure Mode Classification Dataset) comprises 502 observation and label pairs for training, 62 pairs for validation and 62 pairs for testing.
 - 🗄️ [Excavator Maintenance Dataset](https://prognosticsdl.systemhealthlab.com/dataset/excavator-maintenance-work-order-data) - The Excavators Raw&Cleaned dataset provides clean and uncleaned MWOs using a rules based process.
 - 🗄️ [Asset Management Parks System Work Orders: 1.67M rows; 56 columns](https://data.cityofnewyork.us/Environment/Asset-Management-Parks-System-AMPS-Work-Orders/8sdw-8vja) - This dataset provides raw MWOs for park equipment. 
 - 🗄️ [Handyman Work Order Charges: 127K rows; 32 columns](https://data.cityofnewyork.us/Housing-Development/Handyman-Work-Order-HWO-Charges/sbnd-xujn) - Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation.  
@@ -77,6 +77,10 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 📃(slide deck & recording)[Technical Language Processing tutorial](https://phm2023.phmsociety.org/tutorials/) - Tutorial for Technical Language Processing at Prognostics & Health Management (PHM) Society Conference 2023, contains slide deck, recording in 3 parts as well as notebook for getting started using the Excavator dataset.
 - 📃(online media) [An Introduction to Technical Language Processing: Unlocking Maintenance Knowledge.](https://www.amtonline.org/article/an-introduction-to-technical-language-processing-unlocking-maintenance) - Overview talk about TLP with examples.
 
+### TLP Benchmark Datasets
+- 🗄️📃 (and leaderboard)[DesignQA](https://design-qa.github.io/) - DesignQA is a benchmark for evaluating proficiency of multimodel LLMs (MLLMs) in comprehending and applying engineering requirements in technical documentation.  Two (of the 6) benchmarks are also applicable to LLM's.
+- 🗄️ [FMC-MWO2KG](https://paperswithcode.com/dataset/fmc-mwo2kg) - FMC-MWO2KG (The MWO2KG Failure Mode Classification Dataset) comprises 502 observation and label pairs for training, 62 pairs for validation and 62 pairs for testing.
+
 
 ## TLP Resources 
 
@@ -90,9 +94,16 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 📃 [An ontology for reasoning over engineering textual data stored in FMEA spreadsheet tables.](https://www.sciencedirect.com/science/article/abs/pii/S0166361521001032) - Ontology for representing Failure Modes and Effects Analysis (FMEA)
 
 
-## Human Centric TLP Research
+## TLP Research 
+
+#### Human Centric TLP Research
+
+- 📃 [Avoiding Past Mistakes in Unethical Human Subjects Research: Moving From Artificial Intelligence Principles to Practice](https://ieeexplore.ieee.org/abstract/document/10417823) - a brief history of the events that prompted today's ethical codes to protect human rights in research, key ethical principles from the [Belmont Report](https://web.archive.org/web/20240402052729/https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html), and how these ethical principles apply to AI research.
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
 - 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
+
+#### TLP Representations & Embeddings
+- 📃 [Condition Monitoring Annotations with BERT and Technical Language Substitution](https://www.papers.phmsociety.org/index.php/phme/article/view/3356) - Substituting out-of-vocabulary technical words with natural language terms can improve language model performance on other language domains for pre-trained BERT.
 
 
 <!-- END CONTENT -->
