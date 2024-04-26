@@ -54,7 +54,9 @@ Technical Language Processing (TLP) is a set of tools, techniques, and guideline
 - 🔌 [MaintNet: A Collaborative Open-Source Library for Predictive
 Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.html) - MaintNet is a resource of technical language tools and data and includes tools such as technical language spellchecker, POS, etc.
   - 🗄️ [MaintNet Datasets](https://people.rit.edu/fa3019/MaintNet/datasets.html) - The datasets in MaintNet spans maintenance records in aviation, automotive and facility industries.
-  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library. 
+  - 📃 [MaintNet Paper](https://arxiv.org/abs/2005.12443) - Paper that describes the MaintNet library.
+ - 🖥️ [Puggle](https://pypi.org/project/puggle/) - A Python package for working with the outputs of Information Extraction models and tools such as SPERT and QuickGraph. Also available on GitHub ([link](https://github.com/nlp-tlp/puggle/)).
+ - 🖥️ [Mudlark](https://pypi.org/project/mudlark/) - A Python package for automatically cleaning the short text present in maintenance work orders and strategies. Also available on GitHub ([link](https://github.com/nlp-tlp/mudlark/)).
 
 
 ## TLP Datasets
