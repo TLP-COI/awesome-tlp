@@ -88,7 +88,6 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 - 📘 [ISO 15926-4:2019](https://www.iso.org/standard/73830.html) - Reference data for recording information about process plants. 
 - 📘 [ISO 14224:2016](https://www.iso.org/obp/ui/#iso:std:iso:14224:en) - Bases for the collection of reliability and maintenance (RM) data for equipment in oil and gas industry.
 
-<<<<<<< HEAD
 #### Ontologies
 - 📃 [ROMAIN](https://content.iospress.com/articles/applied-ontology/ao190208) - Maintenance management ontology.
 - 📃 [An ontology for maintenance activities and its application to data quality.](https://content.iospress.com/articles/semantic-web/sw233299) - Paper describing an ontology for maintenance activities, which is extensible across industries.
@@ -97,16 +96,14 @@ Maintenance Language Resources](https://people.rit.edu/fa3019/MaintNet/index.htm
 
 ## TLP Research 
 
-### Human Centric TLP Research
+#### Human Centric TLP Research
 
-=======
-## Human Centric TLP Research
 - 📃 [Avoiding Past Mistakes in Unethical Human Subjects Research: Moving From Artificial Intelligence Principles to Practice](https://ieeexplore.ieee.org/abstract/document/10417823) - a brief history of the events that prompted today's ethical codes to protect human rights in research, key ethical principles from the [Belmont Report](https://web.archive.org/web/20240402052729/https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html), and how these ethical principles apply to AI research.
 >>>>>>> newitem/irb-nistr
 - 📃 [Human Centric Technology Insertion](https://www.nist.gov/publications/where-do-we-start-guidance-technology-implementation-maintenance-management-0) - Provides a comprehensive look at technology insertion in the maintenance management workflow using well established error mitigation frameworks. 
 - 📃 [MWO Categorization  Errors](https://www.nist.gov/publications/categorization-errors-data-entry-maintenance-work-orders) - Analyzes human error in recording maintenance work order data into CMM systems. 
 
-### TLP Representations & Embeddings
+#### TLP Representations & Embeddings
 - 📃 [Condition Monitoring Annotations with BERT and Technical Language Substitution](https://www.papers.phmsociety.org/index.php/phme/article/view/3356) - Substituting out-of-vocabulary technical words with natural language terms can improve language model performance on other language domains for pre-trained BERT.
 
 
